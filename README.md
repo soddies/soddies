@@ -1,7 +1,8 @@
 Hi!
 
 My name is Ekaterina, i'm 18 y.o
-Tg: soddiess
+
+❤️ Tg: soddiess
 
 ❤️ I like to programm in JavaScript, html, css (frontent, backend) and Python.
 
