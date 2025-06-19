@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi!
 
-<!--
-**soddies/soddies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ekaterina, i'm 18 y.o
+Tg: soddiess
 
-Here are some ideas to get you started:
+❤️ I like to programm in JavaScript, html, css (frontent, backend) and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ I also know the programming languages C++ and C#.
+
+❤️ Besides that I like to watch anime, films, TV shows, reading books, 
+walking around the city, listening to music, taking the photos, and learning foreign languages.
+
+❤️ I love learning new things and trying new things.
+
