@@ -1,15 +1,13 @@
-Hi!
+Привет, меня зовут Екатерина. Мне 18 лет.
 
-My name is Ekaterina, i'm 18 y.o
+В сфере IT я с 2019 года. 
+Стартуя с него я изучала многое. Но больше всего мне полюбилась frontend-backend разработка на HTML, CSS, JS.
 
-❤️ Tg: mintveil
+Кроме этого знаю языки программирования Python, C++, SQL (поверхностно, но хочу изучить вдоль и поперек).
 
-❤️ I like to programm in JavaScript, html, css (frontent, backend) and Python.
+По возможности хожу на мероприятия по своей специальности для своего же развития.
 
-❤️ I also know the programming languages C++ and C#.
+Также я творческая личность. Читаю книги, рисую, смотрю аниме/фильмы/сериалы, изучаю что-то новое и кайфую от жизни.
 
-❤️ Besides that I like to watch anime, films, TV shows, reading books, 
-walking around the city, listening to music, taking the photos, and learning foreign languages.
-
-❤️ I love learning new things and trying new things.
-
+День рождения: 10 марта.
+Тг: mintveil
