@@ -4,4 +4,4 @@
 
 ...
 
-тг: mintveil
+тг/вк: mintveil
